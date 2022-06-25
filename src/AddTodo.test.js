@@ -19,7 +19,7 @@ afterEach(() => {
 
 
 
- test('test that App component doesn\'t render dupicate Task', () => {
+ test('test that App component doesn\'t render duplicate Task', () => {
   render(<App />);
  });
 
